@@ -95,6 +95,3 @@ Example UI – Product Catalog view
 * Integrate payment gateway
 * Implement admin dashboard for product/category management
 * Improve UI/UX (filters, pagination, image slider)
-Implement admin dashboard for product/category management
-
-Improve UI/UX (filters, pagination, image slider)
